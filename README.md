@@ -1,8 +1,11 @@
 # all-about-me
 My name is Yuki Zhang.
+
 Email: yukiz3256@hstat.org
+
 I am attending HSTAT
 Below is my schedule, I rotate with period 1-4 and 5-8 every other day.
+
 PD1: Chemistry 2
 PD2: Lunch 
 PD3: English 4

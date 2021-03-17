@@ -5,7 +5,7 @@ Email: yukiz3256@hstat.org
 
 I am attending HSTAT
 
-Below is my schedule, I rotate with periods 1-4 and 5-8 every other day.
+### Below is my schedule, I rotate with periods 1-4 and 5-8 every other day.
 
 PD1: Chemistry 2
 
@@ -25,4 +25,6 @@ PD8: Spanish 4
 
 Some other things I like to do outside of school time are running, embriodery, baking, and crafting.
 
-One of my most current favorite tv show is Penthouse. 
+My favorite **tv shows** are
+* Penthouse 
+* 

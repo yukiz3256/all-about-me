@@ -2,9 +2,9 @@
 # Who Am I?
 My name is Yuki Zhang.
 
-You can contact me at my [email] (yukiz3256@hstat.org)
+You can contact me at my email: yukiz3256@hstat.org
 
-I am attending HSTAT
+I am attending [HSTAT](https://www.hstat.org/)
 
 ### Below is my schedule, I rotate with periods 1-4 and 5-8 every other day.
 

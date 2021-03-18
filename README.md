@@ -2,7 +2,8 @@
 # Who Am I?
 My name is Yuki Zhang.
 
-You can contact me at my email: yukiz3256@hstat.org
+You can contact me at my email:  
+yukiz3256@hstat.org
 
 I am attending [HSTAT](https://www.hstat.org/)
 
@@ -30,4 +31,4 @@ Some _other_ things I like to do outside of school time are running, embriodery,
 
 My favorite **tv shows** are
 * Penthouse 
-* 
+* It's Okay To Not Be Okay

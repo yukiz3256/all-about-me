@@ -24,7 +24,7 @@ PD7: Global History
 
 PD8: Spanish 4 
 
-Some other things I like to do outside of school time are running, embriodery, baking, and crafting.
+Some _other_ things I like to do outside of school time are running, embriodery, baking, and crafting.
 
 My favorite **tv shows** are
 * Penthouse 

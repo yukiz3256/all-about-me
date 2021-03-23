@@ -1,6 +1,6 @@
 # all-about-me
 ## Who Am I?
-My name is Yuki Zhang.
+My name is Yuki Zhang!
 
 You can contact me at my email:  
 yukiz3256@hstat.org
@@ -34,3 +34,4 @@ My favorite **tv shows** are
   * Seasons 1 & 2 
 * It's Okay To Not Be Okay  
 
+Reveiwed by Vicky
